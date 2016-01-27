@@ -1,0 +1,13 @@
+{"content":[
+	{"idx":"0", "desc":"Inicio", "sections": [
+		{"head":"", "sect":"Bienvenido a South Side, una empresa dedicada al ramo de la contrucción en donde nos empeñamos a dar solución a todas sus necesidades de diseño y construcción. South Side es una empresa que tiene xx años de experiencia en el ramo de la construcción (industrial, residencial) y que por nuestra larga experiencia podemos ayudarle en cualquier proyecto que usted necesite."},
+		{"head":"", "sect":"<img src='images/bg.jpg'>"},
+		{"head":"", "sect":"Nuestra pasión por el diseño de casas, residencias, fachadas, comercios, industrias nos distingue, y por lo mismo queremos formar parte de sus proyectos para brindarle las mejores opciones en diseño y construccion de sus espacios arquitectonicos, asi mismo brindando un toque estetico que pueda hacer que sus proyectos de construccion tengan una vista apreciable y una infraestructura eficaz."}
+	]},
+	{"idx":"1", "desc":"Servicios", "sections": [
+		{"head":"", "sect":"<ul><li>Diseño y construcción industrial</li><li>Diseño y construcción residencial</li><li>Diseño y construcción comercial</li></ul>"}
+	]},
+	{"idx":"2", "desc":"Portafolio", "sections": [
+		{"head":"", "sect":"A lo largo de nuestra carrera en el ramo de la construcción nuestros proyectos nos respaldan para garantizar una satisfaccion al cliente, no solo por nuestro trabajo, sino tambien por nuestra cercania a la hora de dar asesoria en la que el cliente tiene una guia muy completa en el diseño y desarrollo de sus proyectos de construcción.<div class='yourslider'><div class='your-class'><img src='images/bg.jpg'><img src='images/house-07.jpg'><img src='images/logo.png'></div></div>"}
+	]}
+]}
